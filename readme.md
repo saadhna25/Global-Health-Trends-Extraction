@@ -2,7 +2,7 @@
 
 This project performs **end-to-end health trend analysis** using classical NLP methods (no transformers). It processes COVID-19-related tweets to extract **sentiment patterns, keyword trends, locations, entities, and time-series insights**.
 
-All code and visuals come from the notebook `global_health_trends_extraction.ipynb` (Colab). :contentReference[oaicite:0]{index=0}
+All code and visuals come from the notebook `global_health_trends_extraction.ipynb` (Colab). 
 
 ---
 
